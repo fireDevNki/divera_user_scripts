@@ -20,7 +20,7 @@ Für die Konfiguration eines Nutzers werden die individuelle UserId und der Webh
 
 | Feld      | Beschreibung                                                               |
 | --------- | -------------------------------------------------------------------------- |
-| `userId`  | Primärschlüssel des Nutzers (Verwaltung/Benutzer/<Benutzer>/Extras)        |
+| `userId`  | Primärschlüssel des Nutzers (Verwaltung/Benutzer/"Benutzer"/Extras)        |
 | `userUrl` | Ziel-URL, die im Einsatzfall aufgerufen werden soll.                       |
 
 
